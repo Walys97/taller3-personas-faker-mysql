@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Credenciales reales (NUNCA se suben)
+.env
+
+# Archivos del editor y del sistema
+.vscode/
+Thumbs.db
